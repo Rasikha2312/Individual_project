@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+header{
+    background-color: aqua;
+    padding: 10px;
+   
+
+
+}
+
+        
+header h1{
+    font-size: 14px;
+}
+
+main h1{
+    border: 1px solid lightblue;
+    border-radius: 8px;
+    color: darkblue;
+    text-align: center;
+    background-color:lightblue;
+    font-size: 20px ;
+    font-weight: 12;
+    padding: 11px;
+
+}
+
+footer {
+    background-color: peachpuff;
+    padding: 5px;
+}
+
+footer p {
+  background-color:white;
+  border:5px solid peachpuff;
+  padding: 5px;
+
+  
+}
+
+.contacts{
+    padding-left: 10px;
+}
+
+
+nav{
+   border: solid aqua;
+   border-radius: 0px;
+   
+}
+
+nav a {
+    padding: 5px;
+}
+
+
+.products{
+    border: solid darkblue;
+    border-radius: 10px;
+    padding: 1px
+}
+
+main h2{
+    color: blue;
+
+}
+
+.seasonal_offer{
+      
+      border:5px solid black;
+}
+
+.contacts{
+    border:2px solid black;
+    padding:5px;
+    text-decoration: none;
+
+
+    
+
+    
+}
